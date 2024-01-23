@@ -1,0 +1,4 @@
+- I like learning about the inner workings of things like operating systems.
+- I have a fair amount of knowledge in Linux and other operating systems.
+- C is my favorite letter.
+- Tabs > Spaces, Emacs > Vim 🐈
